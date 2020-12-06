@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StepsTestsApp</string>
+    <string name="welcome_message">Hello please enter the id range:</string>
+    <string name="min_id">Min Id:</string>
+    <string name="max_id">Max Id:</string>
+    <string name="load_comments">Load Comments</string>
+    <string name="error_message">Error message</string>
+</resources>
